@@ -15,5 +15,3 @@ git clone https://github.com/sonyxperiadev/device-sony-common-headers device/son
 git clone https://github.com/sonyxperiadev/device-sony-common-kernel device/sony/common-kernel
 git clone https://github.com/sonyxperiadev/device-sony-sepolicy device/sony/sepolicy
 git clone https://github.com/sonyxperiadev/kernel kernel/sony/msm
-git clone https://github.com/sonyxperiadev/kernel kernel/sony/msm
-
