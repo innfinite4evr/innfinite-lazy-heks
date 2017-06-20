@@ -5,7 +5,7 @@ rm -rf device/sony/common
 rm -rf device/sony/common-init
 rm -rf device/sony/common-headers
 rm -rf device/sony/sepolicy
-rm -rf kernel/sony/msm/*
+rm -rf kernel/sony
 rm -rf vendor/nxp
 rm -rf device/sample
 git clone https://github.com/sonyxperiadev/device-sony-sirius device/sony/sirius
